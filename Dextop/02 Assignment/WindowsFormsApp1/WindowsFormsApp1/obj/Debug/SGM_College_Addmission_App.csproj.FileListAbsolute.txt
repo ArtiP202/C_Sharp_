@@ -1,0 +1,13 @@
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SGM_College_Addmission_App.csproj.AssemblyReference.cache
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Login.resources
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Search_Student.resources
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Student_Details.resources
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Student_List.resources
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SGM_College_Addmission_App.csproj.GenerateResource.cache
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SGM_College_Addmission_App.csproj.CoreCompileInputs.cache
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C#.Net\Desktop Application\02 Assignment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
