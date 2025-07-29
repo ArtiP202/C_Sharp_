@@ -1,0 +1,14 @@
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\bin\Debug\SGM_College_Admission_App.exe.config
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\bin\Debug\SGM_College_Admission_App.exe
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\bin\Debug\SGM_College_Admission_App.pdb
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.csproj.AssemblyReference.cache
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.frm_Login.resources
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.frm_Student_Details.resources
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.frm_Student_List.resources
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.frm_Search_Student.resources
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.frm_Update.resources
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.Properties.Resources.resources
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.csproj.GenerateResource.cache
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.csproj.CoreCompileInputs.cache
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.exe
+D:\C#.Net\Desktop Application\03 Assignment\SGM_College_Admission_App\SGM_College_Admission_App\obj\Debug\SGM_College_Admission_App.pdb
